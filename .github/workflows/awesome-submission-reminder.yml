@@ -1,0 +1,112 @@
+name: Awesome List Submission Reminder
+
+on:
+  schedule:
+    # Run on April 3, 2026 at 9:00 AM UTC (30 days after repo creation)
+    - cron: '0 9 3 4 *'
+
+jobs:
+  remind:
+    if: github.repository == 'agamm/awesome-ai-sre'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if reminder already created
+        id: check
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: 'awesome-submission',
+              state: 'all'
+            });
+            return issues.data.length > 0;
+
+      - name: Create submission reminder issue
+        if: steps.check.outputs.result != 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'Submit to sindresorhus/awesome — 30 days reached',
+              labels: ['awesome-submission'],
+              body: `## Your repo is now 30+ days old — time to submit!
+
+            ### Steps
+
+            1. **Go to your fork:** https://github.com/agamm/awesome/edit/main/readme.md
+            2. **Add this line** at the bottom of the \`## Miscellaneous\` section (before \`## Related\`):
+
+            \`\`\`
+            - [AI SRE](https://github.com/agamm/awesome-ai-sre#readme) - Applying artificial intelligence to site reliability engineering.
+            \`\`\`
+
+            3. **Create a PR** from your fork to \`sindresorhus/awesome\` with:
+               - **Title:** \`Add AI SRE\`
+               - **Body:** (copy the template below)
+
+            4. **Review 2 other open PRs** on sindresorhus/awesome with substantive feedback (not just "looks good")
+            5. **Comment \`unicorn\`** on your PR after submitting
+
+            ---
+
+            ### PR Body Template
+
+            \`\`\`
+            https://github.com/agamm/awesome-ai-sre
+
+            AI SRE (Site Reliability Engineering powered by AI) is a fast-growing category of tools applying artificial intelligence to production operations — autonomous incident response agents, AI-powered observability, intelligent alert correlation, LLM-based diagnostics, and self-healing infrastructure. This list covers 100+ actively maintained tools, platforms, open source projects, and research papers across 15 categories. There is no existing awesome list covering AI-powered SRE tooling (the existing awesome-sre list covers traditional SRE practices).
+
+            ### Requirements for your pull request
+
+            - [x] Don't open a Draft / WIP pull request while you work on the guidelines.
+            - [x] Don't waste my time. Do a good job, adhere to all the guidelines, and be responsive.
+            - [x] I have reviewed at least 2 other open pull requests.
+                - LINK_TO_REVIEW_1
+                - LINK_TO_REVIEW_2
+            - [x] I have read and understood the [instructions for creating a list](https://github.com/sindresorhus/awesome/blob/main/create-list.md).
+            - [x] This pull request has a title in the format \\\`Add Name of List\\\`.
+            - [x] Your entry should include a short description about the project/theme of the list.
+            - [x] Your entry should be added at the bottom of the appropriate category.
+            - [x] The title of your entry should be title-cased and the URL should end in \\\`#readme\\\`.
+            - [x] No blockchain-related lists.
+            - [x] The suggested Awesome list complies with the below requirements.
+
+            ### Requirements for your Awesome list
+
+            - [x] Has been around for at least 30 days.
+            - [x] Run \\\`awesome-lint\\\` on your list and fix the reported issues.
+            - [x] The default branch should be named \\\`main\\\`.
+            - [x] Includes a succinct description of the project/theme at the top of the readme.
+            - [x] It's the result of hard work and the best I could possibly produce.
+            - [x] The repo name is in lowercase slug format: \\\`awesome-ai-sre\\\`.
+            - [x] The heading title is in title case: \\\`# Awesome AI SRE\\\`.
+            - [x] Non-generated Markdown file in a GitHub repo.
+            - [x] The repo has \\\`awesome-list\\\` and \\\`awesome\\\` as GitHub topics.
+            - [x] Not a duplicate.
+            - [x] Only has awesome items.
+            - [x] Does not contain items that are unmaintained, have archived repos, or are deprecated.
+            - [ ] Includes a project logo/illustration whenever possible. *(AI SRE is an abstract concept — no standard logo exists)*
+            - [x] Entries have a description.
+            - [x] Includes the Awesome badge.
+            - [x] Has a Table of Contents section named \\\`Contents\\\`.
+            - [x] Has an appropriate license (CC0).
+            - [x] Has contribution guidelines (\\\`contributing.md\\\`).
+            - [x] Has consistent formatting and proper spelling/grammar.
+            - [x] Does not use hard-wrapping.
+            - [x] Does not include a CI badge.
+            - [x] Does not include an \\\`Inspired by awesome-foo\\\` link.
+            \`\`\`
+
+            ---
+
+            *This issue was auto-created because the repo reached the 30-day milestone required by sindresorhus/awesome.*
+            `
+            });
+      - name: Disable this workflow after running
+        if: steps.check.outputs.result != 'true'
+        run: |
+          echo "Reminder issue created. You can disable this workflow now."
