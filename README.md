@@ -7,6 +7,7 @@ AI is transforming how teams operate production systems — from autonomous inci
 ## Contents
 
 - [AI SRE Agents](#ai-sre-agents)
+- [AI Production Debugging](#ai-production-debugging)
 - [Incident Management](#incident-management)
 - [Observability Platforms](#observability-platforms)
 - [AIOps Platforms](#aiops-platforms)
@@ -30,21 +31,36 @@ AI is transforming how teams operate production systems — from autonomous inci
 
 | Tool | Description |
 |------|-------------|
+| [Resolve AI](https://resolve.ai) | AI SRE by OpenTelemetry co-creators. Targets 80% autonomous resolution rate with parallel hypothesis investigation. $125M Series A, $1B valuation. |
 | [Cleric](https://cleric.ai) | Autonomous AI SRE teammate that investigates alerts 24/7 and delivers root cause analysis in Slack. Gartner Cool Vendor 2025. |
-| [Resolve AI](https://resolve.ai) | AI SRE built by OpenTelemetry co-creators. Autonomous alert handling and root cause analysis, saving up to 20 hrs/week per on-call engineer. |
-| [NeuBird](https://neubird.ai) | Agentic AI SRE co-pilot for enterprise IT. LLM-powered telemetry analysis with 230K+ alerts resolved autonomously. |
+| [NeuBird](https://neubird.ai) | Agentic AI SRE co-pilot (Hawkeye) for enterprise IT. LLM-powered telemetry analysis with 230K+ alerts resolved. Gartner Cool Vendor 2025. |
+| [Phoebe AI](https://phoebe.ai) | Predicts incidents from leading indicators and generates pre-emptive fixes using multi-agent AI swarms. $17M seed led by GV. |
+| [Ciroos AI](https://ciroos.ai) | Multi-agentic AI SRE teammate built on MCP and A2A architectures. Claims 90% reduction in incident response time. $21M seed. |
+| [Dash0 (Agent0)](https://dash0.com) | AI-native observability with specialized agents: The Seeker (on-call triage), The Oracle (PromQL), The Artist (dashboards). $35M Series A. |
+| [Datadog Bits AI](https://www.datadoghq.com/product/ai/bits-ai-sre/) | Autonomous AI on-call agent embedded in Datadog. Analyzes runbooks and telemetry before responders log in. GA Dec 2025. |
+| [Harness AI SRE](https://www.harness.io/products/ai-sre) | Human-Aware Change Agent with AI Scribe that captures Slack/Teams/Zoom signals and correlates with system changes. |
+| [Azure SRE Agent](https://azure.microsoft.com/en-us/products/sre-agent) | Microsoft's AI agent for monitoring, diagnosing, and resolving Azure-hosted application issues. Public preview. |
 | [Causely](https://www.causely.ai) | Causal AI engine that determines the single root cause from alert storms using causal reasoning, not just correlation. Best Use of AI, O11ys 2024. |
 | [DrDroid](https://drdroid.io) | AI SRE agent with knowledge graph for investigation recommendations, PlayBooks automation, and AlertOps Slack bot. Free tier available. |
 | [TierZero AI](https://tierzero.ai) | Autonomous infrastructure issue management — auto-investigates, triages, and resolves infrastructure issues. |
 | [Kubiya](https://www.kubiya.ai) | Agentic engineering platform with natural language Slack/Teams commands, Terraform/CI-CD automation, and role-based access control. |
-| [SRE.ai](https://www.sre.ai) | AI-powered platform for automating SRE practices across the software lifecycle. |
-| [Parity](https://www.tryparity.com) | AI agent for cloud infrastructure reliability. |
-| [Beeps](https://www.beeps.co) | AI-powered incident response agent. |
-| [Kura](https://www.usekura.com) | AI SRE agent focused on incident investigation and resolution. |
-| [Wild Moose](https://www.wildmoose.ai) | AI-powered incident response automation. |
-| [Sherlocks.ai](https://www.sherlocks.ai) | AI detective for production incidents and root cause analysis. |
-| [Nudge Bee](https://nudgebee.com) | AI SRE agent for proactive reliability management. |
+| [SRE.ai](https://www.sre.ai) | Natural language AI agents for complex enterprise DevOps workflows. YC F24, $7.2M seed led by Salesforce Ventures. |
+| [Sherlocks.ai](https://www.sherlocks.ai) | AI-native SRE assistant that automates incident response, RCA, and outage prevention. Lives in Slack/Teams with institutional memory. |
+| [Parity](https://www.tryparity.com) | AI agent for cloud infrastructure reliability. YC S24. |
+| [Beeps](https://beeps.dev) | On-call platform that helps developers and agents resolve downtime faster. |
+| [Kura](https://www.usekura.com) | AI DevOps copilot for AWS cloud infrastructure management and incident response. YC S24. |
+| [Wild Moose](https://www.wildmoose.ai) | AI first responder for production incidents — investigates and surfaces root cause in under one minute. $7M seed. |
+| [Nudge Bee](https://nudgebee.com) | Enterprise AI-agentic workflow platform for SRE and CloudOps with pre-built AI assistants. |
 | [Agent SRE](https://agentsre.ai) | AI agent for autonomous site reliability engineering. |
+
+## AI Production Debugging
+
+*AI-powered tools for debugging production applications in real-time — adding observability without redeployments and autonomously remediating code issues.*
+
+| Tool | Description |
+|------|-------------|
+| [Lightrun](https://lightrun.com) | AI SRE platform for autonomous code remediation. Add logs, snapshots, and metrics to production without restarts. $70M Series B, Fast Company Most Innovative 2025. |
+| [Sentry (Seer)](https://sentry.io/product/seer/) | AI debugging agent built on production telemetry. Identifies actionable issues, performs RCA, and generates code fixes. Expanding to code review via MCP. |
 
 ## Incident Management
 
@@ -52,12 +68,12 @@ AI is transforming how teams operate production systems — from autonomous inci
 
 | Tool | Description |
 |------|-------------|
-| [PagerDuty AIOps](https://www.pagerduty.com/platform/aiops/) | Enterprise incident management with ML-based noise reduction (up to 87% alert reduction), intelligent event correlation, and AI Agent Suite. |
-| [incident.io](https://incident.io) | Slack-native incident management with AI SRE capabilities, automated workflows, and on-call scheduling. |
-| [Rootly](https://rootly.com) | Slack-native incident management with AI-powered alert grouping, automated root cause analysis, and codifiable automation. |
-| [FireHydrant](https://firehydrant.com) | Incident management with pattern recognition, automated notifications, and corrective action automation. |
-| [Squadcast](https://squadcast.com) | Incident management with AI-driven alert clustering and automatic grouping of related incidents. |
-| [Zenduty](https://zenduty.com) | On-call and incident management with ML-based priority auto-assignment from historical incident data. |
+| [PagerDuty AIOps](https://www.pagerduty.com/platform/aiops/) | Enterprise incident management with ML-based noise reduction (91% alert reduction), AI Agent Suite with SRE Agent, Copilot, and MCP Server. |
+| [incident.io](https://incident.io) | Slack-native incident management with AI SRE, AI Alert Triage, AI Postmortems, Scribe call transcription, and Claude/Cursor integration. |
+| [Rootly](https://rootly.com) | AI-native incident management with LLM-powered investigation across the observability stack. Reports 70%+ MTTR reduction. |
+| [FireHydrant](https://firehydrant.com) | AI-powered incident summaries, Zoom-aware context, and AI-drafted retrospectives. Being acquired by Freshworks. |
+| [Squadcast](https://squadcast.com) | Incident management with AI-driven alert clustering and automatic grouping. Acquired by SolarWinds (2025). |
+| [Zenduty](https://zenduty.com) | On-call and incident management with AI Summarizer, AI Postmortem, and AI Scheduling. Acquired by Xurrent; rebranding to Xurrent IMR. |
 | [BetterStack](https://betterstack.com) | Developer-friendly uptime monitoring and incident management with integrated observability. |
 
 ## Observability Platforms
@@ -66,11 +82,11 @@ AI is transforming how teams operate production systems — from autonomous inci
 
 | Tool | Description |
 |------|-------------|
-| [Datadog](https://www.datadoghq.com) | Unified SaaS observability with Watchdog AI auto-detection, predictive metrics monitoring, and LLM observability. 600+ integrations. |
+| [Datadog](https://www.datadoghq.com) | Unified SaaS observability with Watchdog AI auto-detection, Bits AI SRE agent, predictive metrics monitoring, and LLM observability. 600+ integrations. |
 | [Dynatrace (Davis AI)](https://www.dynatrace.com) | Full-stack observability with Davis AI engine for continuous dependency analysis, anomaly detection, and Davis CoPilot for natural language remediation. |
 | [New Relic](https://newrelic.com) | Full-stack observability with NRAI assistant for natural language queries and AI-powered anomaly detection. |
 | [Grafana](https://grafana.com) | Open source observability with Grafana Assistant for natural language queries, autonomous incident investigation, and ML-based anomaly detection. |
-| [Splunk](https://www.splunk.com) | Enterprise observability with AI-driven anomaly detection at scale and ITSI with ML-based predictive analytics. |
+| [Splunk](https://www.splunk.com) | Enterprise observability with AI-driven anomaly detection at scale and ITSI with ML-based predictive analytics. Part of Cisco. |
 | [Elastic AI Assistant](https://www.elastic.co/elasticsearch/ai-assistant) | AI assistant in Kibana for natural language log/metrics/trace querying, contextual alert triage, and RAG-powered knowledge base. |
 | [Honeycomb](https://www.honeycomb.io) | Observability for distributed services with Query Assistant, Honeycomb Intelligence, AI-guided Canvas workspace, and hosted MCP server. |
 | [Coroot](https://coroot.com) | Open source observability with AI-powered root cause analysis and eBPF-based auto-instrumentation. Zero config covers 80%+ of common issues. |
@@ -83,10 +99,10 @@ AI is transforming how teams operate production systems — from autonomous inci
 
 | Tool | Description |
 |------|-------------|
-| [BigPanda](https://www.bigpanda.io) | AIOps for high-alert-volume environments with event correlation reducing alert volume by 95%+ and agentic AI for incident routing. |
-| [Moogsoft](https://www.moogsoft.com) | AIOps with event deduplication, contextual enrichment, intelligent correlation, and automated root cause analysis. |
+| [BigPanda](https://www.bigpanda.io) | AIOps for high-alert-volume environments with event correlation reducing alert volume by 95%+, AI Incident Assistant, and agentic ITOps. |
+| [Moogsoft](https://www.moogsoft.com) | AIOps with event deduplication, contextual enrichment, intelligent correlation, and automated root cause analysis. Part of Dell Technologies. |
 | [LogicMonitor](https://www.logicmonitor.com) | Cloud-based infrastructure monitoring with Edwin AI agent for plain-language summaries, predictive analytics, and capacity forecasting. |
-| [Selector AI](https://www.selector.ai) | AI-powered network observability with Network Large Language Model (NLM), 90% alert noise reduction, and digital twin modeling. |
+| [Selector AI](https://www.selector.ai) | AI-powered network observability with Network Large Language Model (NLM), 90% alert noise reduction, and digital twin modeling. $32M raise at $375M valuation. |
 | [Keep](https://www.keephq.dev) | Open source AIOps and alert management with correlation across monitoring tools and 50+ integrations. |
 
 ## Log Analysis & Anomaly Detection
@@ -95,11 +111,11 @@ AI is transforming how teams operate production systems — from autonomous inci
 
 | Tool | Description |
 |------|-------------|
-| [LogAI](https://github.com/salesforce/logai) | Open source library by Salesforce for log clustering, anomaly detection, and summarization with modular ML pipelines. OpenTelemetry-compatible. |
-| [Graylog](https://graylog.org) | Open source log management for centralized collection, indexing, and analysis with anomaly alerting. |
 | [Sumo Logic](https://www.sumologic.com) | Cloud-native log analytics with real-time AI-powered anomaly detection and ML-based pattern recognition. |
-| [Logz.io](https://logz.io) | Cloud observability built on ELK/OpenSearch with AI-powered log analysis and ML-based anomaly detection. |
+| [Graylog](https://graylog.org) | Open source log management for centralized collection, indexing, and analysis with anomaly alerting. |
+| [Logz.io](https://logz.io) | Cloud observability built on ELK/OpenSearch with AI-powered log analysis, ML-based anomaly detection, and MCP server. |
 | [OpenObserve](https://openobserve.ai) | Open source, high-performance log/metrics/trace platform with real-time analytics and reduced storage costs. |
+| [LogAI](https://github.com/salesforce/logai) | Open source library by Salesforce for log clustering, anomaly detection, and summarization with modular ML pipelines. OpenTelemetry-compatible. |
 
 ## Chaos Engineering
 
@@ -123,9 +139,7 @@ AI is transforming how teams operate production systems — from autonomous inci
 |------|-------------|
 | [Rundeck](https://www.rundeck.com) | Open source + commercial runbook automation with self-service GUI, job scheduling, RBAC, and 1000+ integration plugins. Part of PagerDuty. |
 | [StackStorm](https://stackstorm.com) | Open source event-driven automation ("IFTTT for Ops") with rules engine, 6000+ actions, and ChatOps. Used by Netflix for self-healing infrastructure. |
-| [Shoreline.io](https://www.shoreline.io) | Real-time fleet-wide incident automation with Op DSL, auto-remediation linked to alerts, and blast radius controls. Acquired by NVIDIA. |
 | [Ansible Lightspeed](https://www.redhat.com/en/technologies/management/ansible/ansible-lightspeed) | AI-powered Ansible playbook generation via IBM watsonx with natural language to Ansible code and MCP support. |
-| [Transposit](https://www.transposit.com) | API-first runbook automation connecting people, tools, and communication for incident response. |
 | [RunWhen](https://www.runwhen.com) | Platform for SRE agent orchestration and automated troubleshooting workflows. |
 
 ## Cloud Cost Optimization
@@ -199,8 +213,7 @@ AI is transforming how teams operate production systems — from autonomous inci
 | [SigNoz](https://github.com/SigNoz/signoz) | OpenTelemetry-native observability for logs, metrics, and traces. |
 | [OpenObserve](https://github.com/openobserve/openobserve) | High-performance log/metrics/trace platform. |
 | [Steadybit](https://github.com/steadybit) | Chaos engineering with open source extension framework. |
-| [Obot](https://github.com/obot-platform/obot) | Open source agent orchestration platform. |
-| [ControlFlow](https://github.com/PrefectHQ/ControlFlow) | Prefect's framework for building AI agent workflows. |
+| [Obot](https://github.com/obot-platform/obot) | Open source agent orchestration platform. $35M seed. |
 
 ## Research Papers
 
@@ -242,7 +255,6 @@ AI is transforming how teams operate production systems — from autonomous inci
 | [awesome-AIOps](https://github.com/OpsPAI/awesome-AIOps) | Academic research and industrial materials on AIOps. |
 | [awesome-LLM-AIOps](https://github.com/Jun-jie-Huang/awesome-LLM-AIOps) | LLM-specific AIOps research and papers. |
 | [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) | Comprehensive chaos engineering resources. |
-| [awesome-runbook](https://github.com/runbear-io/awesome-runbook) | Runbook documents, software, and resources. |
 
 ---
 
