@@ -78,6 +78,7 @@
 - [Coroot](https://coroot.com) - Open source observability with AI-powered root cause analysis and eBPF-based auto-instrumentation.
 - [Last9](https://last9.io) - Unified observability with Agentic SRE SDK, AI copilot integration with Claude, Cursor, and Slack, and managed TSDB.
 - [SigNoz](https://signoz.io) - Open source OpenTelemetry-native observability platform for logs, metrics, and traces with unified correlation analysis.
+- [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard with AI-guided operations, real-time observability across hybrid and edge clusters, and 20+ CNCF integrations (Prometheus, Grafana, Falco, Kyverno, OPA/Gatekeeper). CNCF Sandbox project.
 
 ## AIOps Platforms
 
