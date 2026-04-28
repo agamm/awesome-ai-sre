@@ -44,6 +44,7 @@
 - [Wild Moose](https://www.wildmoose.ai) - AI first responder for production incidents that investigates and surfaces root cause in under one minute.
 - [Nudge Bee](https://nudgebee.com) - Enterprise AI-agentic workflow platform for SRE and CloudOps with pre-built AI assistants and customizable workflows.
 - [Agent SRE](https://agentsre.ai) - AI agent for autonomous site reliability engineering.
+- [AURA](https://github.com/mezmo/aura) - Open Source AI Agentic Harness for SRE workflows as simple as a chatbot or as complex as an L5 agent defined in a simple config file.
 
 ## AI Production Debugging
 
@@ -78,6 +79,7 @@
 - [Coroot](https://coroot.com) - Open source observability with AI-powered root cause analysis and eBPF-based auto-instrumentation.
 - [Last9](https://last9.io) - Unified observability with Agentic SRE SDK, AI copilot integration with Claude, Cursor, and Slack, and managed TSDB.
 - [SigNoz](https://signoz.io) - Open source OpenTelemetry-native observability platform for logs, metrics, and traces with unified correlation analysis.
+- [Mezmo](https://mezmo.com) - The intelligence layer for AI-SRE that compresses signals from the full stack of observability into actionable insights that your agents can use.
 
 ## AIOps Platforms
 
