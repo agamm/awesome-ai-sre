@@ -24,6 +24,7 @@
 *Autonomous AI agents purpose-built for SRE workflows — investigating alerts, performing root cause analysis, and resolving incidents with minimal human intervention.*
 
 - [Resolve AI](https://resolve.ai) - Autonomous SRE platform by OpenTelemetry co-creators that targets 80% autonomous resolution rate with parallel hypothesis investigation.
+- - [Middleware OpsAI](https://middleware.io/product/ops-ai/) - AI SRE agent that detects issues across APM, RUM, Logs, and Kubernetes, traces errors to the exact line of code via GitHub MCP, and opens a PR with a fix or auto-applies it for Kubernetes without waking your on-call engineer.
 - [Cleric](https://cleric.ai) - Autonomous AI SRE teammate that investigates alerts 24/7 and delivers root cause analysis in Slack.
 - [NeuBird](https://neubird.ai) - Agentic AI SRE co-pilot for enterprise IT with LLM-powered telemetry analysis and 230K+ alerts resolved.
 - [Phoebe AI](https://phoebe.ai) - Predicts incidents from leading indicators and generates pre-emptive fixes using multi-agent AI swarms.
@@ -78,6 +79,7 @@
 - [Coroot](https://coroot.com) - Open source observability with AI-powered root cause analysis and eBPF-based auto-instrumentation.
 - [Last9](https://last9.io) - Unified observability with Agentic SRE SDK, AI copilot integration with Claude, Cursor, and Slack, and managed TSDB.
 - [SigNoz](https://signoz.io) - Open source OpenTelemetry-native observability platform for logs, metrics, and traces with unified correlation analysis.
+- [Middleware](https://middleware.io) - Full-stack observability platform that detects issues across APM, RUM, logs, and infrastructure, and resolves them using OpsAI, an AI SRE agent that pinpoints root cause and auto-fixes issues with 70% automated resolution rate.
 
 ## AIOps Platforms
 
