@@ -44,6 +44,7 @@
 - [Wild Moose](https://www.wildmoose.ai) - AI first responder for production incidents that investigates and surfaces root cause in under one minute.
 - [Nudge Bee](https://nudgebee.com) - Enterprise AI-agentic workflow platform for SRE and CloudOps with pre-built AI assistants and customizable workflows.
 - [Agent SRE](https://agentsre.ai) - AI agent for autonomous site reliability engineering.
+- [Anyshift](https://anyshift.io) - AI SRE agent that investigates production incidents by tracing changes across a versioned infrastructure graph to identify root causes.
 
 ## AI Production Debugging
 
