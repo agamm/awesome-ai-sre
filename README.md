@@ -188,3 +188,5 @@
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time monitoring dashboard for OpenClaw AI agents. Track token usage, session status, and message trends.
