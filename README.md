@@ -46,6 +46,7 @@
 - [Agent SRE](https://agentsre.ai) - AI agent for autonomous site reliability engineering.
 - [Anyshift](https://anyshift.io) - AI SRE agent that investigates production incidents by tracing changes across a versioned infrastructure graph to identify root causes.
 - [Guardian by Metoro](https://metoro.io/ai-sre-agent) - AI SRE agent for Kubernetes that detects issues, finds the root cause, and opens fix PRs automatically.
+- [Hyground](https://hyground.ai) - A sovereign AI SRE agent built to operate complex software across your entire stack, automatically find root causes and cut DevOps toil.
 
 ## AI Production Debugging
 
@@ -180,6 +181,7 @@
 - [Doctor Droid Notes](https://notes.drdroid.io) - AI-focused SRE engineering blog.
 - [NeuBird Blog](https://neubird.ai/blog) - GenAI SRE predictions and industry analysis.
 - [Metoro Blog](https://metoro.io/blog) - Observability, AI SRE and Kubernetes content.
+- [Hyground Blog](https://hyground.ai/blog) - AI SRE, observability, and GenAI content.
 
 ## Community Lists
 
