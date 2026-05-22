@@ -181,7 +181,7 @@
 - [Doctor Droid Notes](https://notes.drdroid.io) - AI-focused SRE engineering blog.
 - [NeuBird Blog](https://neubird.ai/blog) - GenAI SRE predictions and industry analysis.
 - [Metoro Blog](https://metoro.io/blog) - Observability, AI SRE and Kubernetes content.
-- [Hyground Blog](https://hyground.ai/blog) - AI SRE, observability, and GenAI content.
+- [Hyground Blog](https://hyground.ai/blog) - AI SRE, observability, GenAI / security content.
 
 ## Community Lists
 
