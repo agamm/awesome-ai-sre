@@ -66,6 +66,7 @@
 - [Squadcast](https://squadcast.com) - Incident management with AI-driven alert clustering and automatic grouping of related incidents. Acquired by SolarWinds.
 - [Zenduty](https://zenduty.com) - On-call and incident management with AI Summarizer, AI Postmortem, and AI Scheduling. Acquired by Xurrent, rebranding to Xurrent IMR.
 - [BetterStack](https://betterstack.com) - Developer-friendly uptime monitoring and incident management with integrated observability.
+- [Regen](https://github.com/FluidifyAI/Regen) - Open-source, self-hosted incident management with agent-native architecture, BYO AI for summaries and post-mortems, on-call scheduling, and Slack/Teams integration. AGPLv3.
 
 ## Observability Platforms
 
