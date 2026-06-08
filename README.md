@@ -183,6 +183,12 @@
 - [Metoro Blog](https://metoro.io/blog) - Observability, AI SRE and Kubernetes content.
 - [Hyground Blog](https://hyground.ai/blog) - AI SRE, observability, GenAI / security content.
 
+## Agent Identity & Trust Verification
+
+*Tools for verifying AI agent identity and on-chain wallet reputation before autonomous agents execute paid operations or cross-system transactions.*
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agents on Solana. `score_agent(wallet)` returns a behavioral reputation score; `preflight_check(wallet)` gives a binary go/no-go before an agent-to-agent transaction. Paid `get_trust_receipt(wallet)` calls use x402 micropayments. Free streamable-HTTP MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Community Lists
 
 *Other curated collections in the AI and operations space.*
