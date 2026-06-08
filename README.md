@@ -82,6 +82,7 @@
 - [Last9](https://last9.io) - Unified observability with Agentic SRE SDK, AI copilot integration with Claude, Cursor, and Slack, and managed TSDB.
 - [SigNoz](https://signoz.io) - Open source OpenTelemetry-native observability platform for logs, metrics, and traces with unified correlation analysis.
 - [Metoro](https://metoro.io/) - Kubernetes native observability platform with built-in eBPF telemetry, AI investigation, deployment verification and root-cause analysis.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Agent wallet trust scoring for multi-agent observability pipelines. Verify which AI agent is calling before billing, logging, or granting production access — free MCP server with `score_agent(wallet)` and `preflight_check(wallet)` tools.
 
 ## AIOps Platforms
 
