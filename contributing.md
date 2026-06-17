@@ -14,7 +14,7 @@ Thank you for contributing to Awesome AI SRE!
 
 - The tool, service, or resource should be actively maintained.
 - Commercial products should have a public website with clear documentation.
-- Open source projects should have at least 50 stars or be part of a recognized foundation (CNCF, Linux Foundation, etc.).
+- Open source projects should have at least 500 stars or be part of a recognized foundation (CNCF, Linux Foundation, etc.).
 - Blog posts and articles should provide lasting value, not just news.
 
 ## Adding a new category
