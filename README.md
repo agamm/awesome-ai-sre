@@ -84,6 +84,7 @@
 - [Coroot](https://coroot.com) - Open source observability with AI-powered root cause analysis and eBPF-based auto-instrumentation.
 - [Last9](https://last9.io) - Unified observability with Agentic SRE SDK, AI copilot integration with Claude, Cursor, and Slack, and managed TSDB.
 - [SigNoz](https://signoz.io) - Open source OpenTelemetry-native observability platform for logs, metrics, and traces with unified correlation analysis.
+- [Tuning Engines](https://www.tuningengines.com) - OpenAI-compatible AI control plane for governed inference, agent and MCP traces, approval workflows, usage and cost tracking, and policy enforcement across external runtimes.
 - [Middleware](https://middleware.io) - Full-stack observability platform that detects issues across APM, RUM, logs, and infrastructure, and resolves them using OpsAI, an AI SRE agent that pinpoints root cause and auto-fixes issues with 70% automated resolution rate.
 - [Metoro](https://metoro.io/) - Kubernetes native observability platform with built-in eBPF telemetry, AI investigation, deployment verification and root-cause analysis.
 - [Radar](https://github.com/skyhook-io/radar) - Open source Kubernetes observability with topology, service traffic, and event timeline, plus a built-in MCP server and a 31-check best-practices audit for AI assistants.
