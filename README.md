@@ -2,8 +2,6 @@
 
 > Applying artificial intelligence to site reliability engineering — autonomous incident response, intelligent observability, and self-healing infrastructure.
 
-[![Sponsor](https://readme-cash--readme-cash.us-central1.hosted.app/i/34pqg6chk2.svg)](https://readme-cash--readme-cash.us-central1.hosted.app/c/34pqg6chk2)
-
 ## Contents
 
 - [AI SRE Agents](#ai-sre-agents)
