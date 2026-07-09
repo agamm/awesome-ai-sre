@@ -48,6 +48,7 @@
 - [Anyshift](https://anyshift.io) - AI SRE agent that investigates production incidents by tracing changes across a versioned infrastructure graph to identify root causes.
 - [Guardian by Metoro](https://metoro.io/ai-sre-agent) - AI SRE agent for Kubernetes that detects issues, finds the root cause, and opens fix PRs automatically.
 - [Hyground](https://hyground.ai) - A sovereign AI SRE agent built to operate complex software across your entire stack, automatically find root causes and cut DevOps toil.
+- [Aient AI](https://aient.ai) - OpenTelemetry-native AI SRE agent that groups errors from logs, metrics, and traces into problems, investigates root cause, and opens a GitHub pull request with a fix for human review.
 
 ## AI Production Debugging
 
