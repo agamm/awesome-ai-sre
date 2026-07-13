@@ -13,8 +13,9 @@ Thank you for contributing to Awesome AI SRE!
 ## Quality standards
 
 - The tool, service, or resource should be actively maintained.
-- Commercial products should have a public website with clear documentation.
-- Open source projects should have at least 50 stars or be part of a recognized foundation (CNCF, Linux Foundation, etc.).
+- Commercial products should have a public website with clear documentation - not AI slop.
+- Open source projects should have at least 300 stars or be part of a recognized foundation (CNCF, Linux Foundation, etc.).
+- SOC2 / Customer list / Product hunt (#1-3), indicators of value...
 - Blog posts and articles should provide lasting value, not just news.
 
 ## Adding a new category
