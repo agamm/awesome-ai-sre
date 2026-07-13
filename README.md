@@ -140,6 +140,7 @@
 - [Finout](https://www.finout.io) - Enterprise FinOps with MegaBill for multi-provider cost consolidation and AI-powered cost attribution.
 - [Spot.io](https://spot.io) - Cloud infrastructure automation with spot instance optimization and commitment management. Part of NetApp.
 - [CloudPilot AI](https://cloudpilot.ai) - Kubernetes-native capacity management with predictive scaling that anticipates usage spikes proactively.
+- [CoreTechX](https://www.jslet.com/) — 51 free client-side engineering calculators with 15+ SRE-focused tools. SLA-to-downtime economics (99%→99.9999%), error budget burn rate alert (Google SRE multiwindow model), incident cost estimator, MTTR/MTBF/MTTD relationship modeler, on-call staffing calculator, load shedding threshold, circuit breaker trip point, deployment risk scoring, chaos experiment blast radius, and password entropy estimation. Also includes cloud cost tools: AWS egress, NAT Gateway cost, idle resource waste, RI vs spot breakeven. All in-browser, no signup, no tracking.
 
 ## LLM-Powered DevOps Tools
 
