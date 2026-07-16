@@ -106,6 +106,7 @@
 - [Logz.io](https://logz.io) - Cloud observability built on ELK and OpenSearch with AI-powered log analysis, ML-based anomaly detection, and MCP server.
 - [OpenObserve](https://openobserve.ai) - Open source high-performance log, metrics, and trace platform with real-time analytics.
 - [LogAI](https://github.com/salesforce/logai) - Open source library by Salesforce for log clustering, anomaly detection, and summarization with modular ML pipelines.
+- [Dstl8](https://dstl8.ai) - Continuous runtime feedback platform that distills logs into patterns, anomalies, and incidents, and streams that context to AI coding agents like Claude Code and Cursor through its CLI and MCP server.
 
 ## Chaos Engineering
 
