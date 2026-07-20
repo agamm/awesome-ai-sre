@@ -186,6 +186,7 @@
 - [NeuBird Blog](https://neubird.ai/blog) - GenAI SRE predictions and industry analysis.
 - [Metoro Blog](https://metoro.io/blog) - Observability, AI SRE and Kubernetes content.
 - [Hyground Blog](https://hyground.ai/blog) - AI SRE, observability, GenAI / security content.
+- [What to Actually Measure When Your Agent "Works"](https://loopandretry.github.io/posts/what-to-measure-when-your-agent-works/?ref=awesome-ai-sre) - A five-layer scheme (outcome, trajectory, cost, failure class, stability) for grading an agent beyond its final answer.
 
 ## Community Lists
 
