@@ -61,6 +61,7 @@
 
 *AI-enhanced platforms for managing the full incident lifecycle — detection, triage, response, communication, and post-mortems.*
 
+- [Chronicle](https://github.com/shlokkokk/Chronicle) - Deduplicates alerts via SHA fingerprinting, retrieves matching past incidents from a dual-layer Mem0 + pgvector memory, auto-escalates SLA breaches across severities, and drafts postmortems using a AI-powered RAG pipeline.
 - [PagerDuty AIOps](https://www.pagerduty.com/platform/aiops/) - Enterprise incident management with ML-based noise reduction, AI Agent Suite with SRE Agent and Copilot, and MCP server integration.
 - [incident.io](https://incident.io) - Slack-native incident management with AI SRE, AI alert triage, AI postmortems, Scribe call transcription, and Claude and Cursor integration.
 - [Rootly](https://rootly.com) - AI-native incident management with LLM-powered investigation across the observability stack.
