@@ -49,6 +49,7 @@
 - [Aurora](https://github.com/Arvo-AI/aurora) - Open-source (Apache 2.0) AI SRE agent that autonomously investigates incidents and delivers root cause analysis across AWS, Azure, GCP, and Kubernetes, with bring-your-own-LLM support including local models via Ollama.
 - [Guardian by Metoro](https://metoro.io/ai-sre-agent) - AI SRE agent for Kubernetes that detects issues, finds the root cause, and opens fix PRs automatically.
 - [Hyground](https://hyground.ai) - A sovereign AI SRE agent built to operate complex software across your entire stack, automatically find root causes and cut DevOps toil.
+- [Mezmo AURA](https://github.com/mezmo/aura) - AURA is an open-source agentic harness for building and running reliable SRE agents in your infrastructure. Built in Rust and licensed under Apache 2.0, it combines multi-agent DAG orchestration, evidence-based investigation, self-checking validation, human-in-the-loop controls, dynamic MCP tool discovery, and A2A interoperability.
 
 ## AI Production Debugging
 
