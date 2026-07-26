@@ -148,6 +148,7 @@
 
 - [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt) - CNCF project for AI-powered Kubernetes diagnostics with SRE experience codified into analyzers and multiple LLM backends.
 - [HolmesGPT](https://github.com/HolmesGPT/holmesgpt) - CNCF Sandbox project providing a 24/7 on-call AI agent with agentic loop querying live observability data from Prometheus, Grafana, Datadog, and Kubernetes.
+- [kprompt](https://github.com/kprompt/kprompt) - Open-source AI Kubernetes CLI: natural language → reviewable plan → approve → apply (BYOK, CI JSON).
 - [Kube-Copilot](https://github.com/feiskyer/kube-copilot) - Open source natural language to Kubernetes operations with manifest generation and security scanning.
 - [Lens Prism](https://lenshq.io) - AI copilot in Lens Desktop for context-aware natural language interaction with live Kubernetes clusters.
 - [GitHub Copilot Agent Mode](https://github.com/features/copilot) - AI coding assistant with DevOps agent capabilities for infrastructure validation, incident response, and pipeline automation.
