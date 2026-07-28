@@ -43,7 +43,7 @@
 - [Beeps](https://beeps.dev) - On-call platform that helps developers and agents resolve downtime faster.
 - [Kura](https://www.usekura.com) - AI DevOps copilot for AWS cloud infrastructure management and incident response.
 - [Wild Moose](https://www.wildmoose.ai) - AI first responder for production incidents that investigates and surfaces root cause in under one minute.
-- [Nudge Bee](https://nudgebee.com) - Enterprise AI-agentic workflow platform for SRE and CloudOps with pre-built AI assistants and customizable workflows.
+- [NudgeBee](https://github.com/nudgebee/nudgebee) - Self-hosted agentic SRE platform that investigates incidents to a cited root cause across AWS, Azure, GCP, and Kubernetes, surfaces cost and rightsizing waste, and executes approval-gated remediation runbooks, with bring-your-own-model support across nine LLM providers.
 - [Agent SRE](https://agentsre.ai) - AI agent for autonomous site reliability engineering.
 - [Anyshift](https://anyshift.io) - AI SRE agent that investigates production incidents by tracing changes across a versioned infrastructure graph to identify root causes.
 - [Aurora](https://github.com/Arvo-AI/aurora) - Open-source (Apache 2.0) AI SRE agent that autonomously investigates incidents and delivers root cause analysis across AWS, Azure, GCP, and Kubernetes, with bring-your-own-LLM support including local models via Ollama.
