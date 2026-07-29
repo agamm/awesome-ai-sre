@@ -65,6 +65,7 @@
 - [incident.io](https://incident.io) - Slack-native incident management with AI SRE, AI alert triage, AI postmortems, Scribe call transcription, and Claude and Cursor integration.
 - [Rootly](https://rootly.com) - AI-native incident management with LLM-powered investigation across the observability stack.
 - [FireHydrant](https://firehydrant.com) - AI-powered incident summaries, Zoom-aware context enrichment, and AI-drafted retrospectives. Being acquired by Freshworks.
+- [Hyperping](https://hyperping.com) - Uptime, API, and server monitoring with on-call scheduling and status pages, exposed to AI agents through a remote MCP server covering monitors, outages, MTTR/MTTA reporting, and on-call schedules.
 - [Squadcast](https://squadcast.com) - Incident management with AI-driven alert clustering and automatic grouping of related incidents. Acquired by SolarWinds.
 - [Zenduty](https://zenduty.com) - On-call and incident management with AI Summarizer, AI Postmortem, and AI Scheduling. Acquired by Xurrent, rebranding to Xurrent IMR.
 - [BetterStack](https://betterstack.com) - Developer-friendly uptime monitoring and incident management with integrated observability.
