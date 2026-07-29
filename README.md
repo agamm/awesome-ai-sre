@@ -49,6 +49,7 @@
 - [Aurora](https://github.com/Arvo-AI/aurora) - Open-source (Apache 2.0) AI SRE agent that autonomously investigates incidents and delivers root cause analysis across AWS, Azure, GCP, and Kubernetes, with bring-your-own-LLM support including local models via Ollama.
 - [Guardian by Metoro](https://metoro.io/ai-sre-agent) - AI SRE agent for Kubernetes that detects issues, finds the root cause, and opens fix PRs automatically.
 - [Hyground](https://hyground.ai) - A sovereign AI SRE agent built to operate complex software across your entire stack, automatically find root causes and cut DevOps toil.
+- [Aiden for SRE](https://stackgen.com/product/aiden-for-sre) - It acts autonomously on recurring incidents and works complex ones alongside your team through to resolution — policy-bound and fully auditable.
 
 ## AI Production Debugging
 
@@ -86,7 +87,7 @@
 - [Middleware](https://middleware.io) - Full-stack observability platform that detects issues across APM, RUM, logs, and infrastructure, and resolves them using OpsAI, an AI SRE agent that pinpoints root cause and auto-fixes issues with 70% automated resolution rate.
 - [Metoro](https://metoro.io/) - Kubernetes native observability platform with built-in eBPF telemetry, AI investigation, deployment verification and root-cause analysis.
 - [Radar](https://github.com/skyhook-io/radar) - Open source Kubernetes observability with topology, service traffic, and event timeline, plus a built-in MCP server and a 31-check best-practices audit for AI assistants.
-
+- [Aiden for Observability](https://stackgen.com/product/aiden-for-observability) - Unified observability platform with 300+ integrations, instant setup, and AI-powered root cause analysis that eliminates tool fragmentation.
 ## AIOps Platforms
 
 *Platforms that apply ML and AI to IT operations — correlating events, reducing alert noise, and automating operational workflows at scale.*
