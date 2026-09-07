@@ -150,6 +150,7 @@
 
 *Tools leveraging large language models for natural language interaction with infrastructure, code generation for operations, and AI-assisted DevOps workflows.*
 
+- [Bifrost](https://github.com/maximhq/bifrost) - Self-hosted AI gateway for multi-provider routing, load balancing, quotas, and request logging.
 - [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt) - CNCF project for AI-powered Kubernetes diagnostics with SRE experience codified into analyzers and multiple LLM backends.
 - [HolmesGPT](https://github.com/HolmesGPT/holmesgpt) - CNCF Sandbox project providing a 24/7 on-call AI agent with agentic loop querying live observability data from Prometheus, Grafana, Datadog, and Kubernetes.
 - [Kube-Copilot](https://github.com/feiskyer/kube-copilot) - Open source natural language to Kubernetes operations with manifest generation and security scanning.
