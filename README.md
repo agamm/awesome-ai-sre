@@ -185,6 +185,9 @@
 - [awesome-LLM-AIOps](https://github.com/Jun-jie-Huang/awesome-LLM-AIOps) - LLM-specific AIOps research and papers.
 - [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - Comprehensive chaos engineering resources.
 
+
+- [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trends, multi-model support. Built with Vue 3 and ECharts.
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
