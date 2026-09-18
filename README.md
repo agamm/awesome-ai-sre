@@ -59,6 +59,7 @@
 
 - [Lightrun](https://lightrun.com) - AI SRE platform for autonomous code remediation that lets you add logs, snapshots, and metrics to production without restarts.
 - [Sentry Seer](https://sentry.io/product/seer/) - AI debugging agent built on production telemetry that identifies actionable issues, performs root cause analysis, and generates code fixes.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Open-source CLI (npm: orcareplay) that records an agent's real provider traffic to a local trace and replays that run offline, so an LLM-driven incident can be reproduced on a laptop without re-running against production or making another provider call.
 
 ## Incident Management
 
