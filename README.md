@@ -73,6 +73,7 @@
 - [Squadcast](https://squadcast.com) - Incident management with AI-driven alert clustering and automatic grouping of related incidents. Acquired by SolarWinds.
 - [Zenduty](https://zenduty.com) - On-call and incident management with AI Summarizer, AI Postmortem, and AI Scheduling. Acquired by Xurrent, rebranding to Xurrent IMR.
 - [BetterStack](https://betterstack.com) - Developer-friendly uptime monitoring and incident management with integrated observability.
+- [API Status Check](https://apistatuscheck.com) - Third-party dependency status aggregated across 285 vendor APIs in 29 categories, exposed to AI agents through a remote MCP server that answers whether an upstream provider is down, degraded, or the source of a live incident.
 
 ## Observability Platforms
 
