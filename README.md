@@ -73,6 +73,7 @@
 - [Squadcast](https://squadcast.com) - Incident management with AI-driven alert clustering and automatic grouping of related incidents. Acquired by SolarWinds.
 - [Zenduty](https://zenduty.com) - On-call and incident management with AI Summarizer, AI Postmortem, and AI Scheduling. Acquired by Xurrent, rebranding to Xurrent IMR.
 - [BetterStack](https://betterstack.com) - Developer-friendly uptime monitoring and incident management with integrated observability.
+- [Spike](https://spike.sh) - Incident management and on-call platform, exposed to AI agents (Claude, ChatGPT, Cursor) through a remote MCP server.
 
 ## Observability Platforms
 
