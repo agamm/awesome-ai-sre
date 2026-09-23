@@ -29,6 +29,7 @@
 - [Resolve AI](https://resolve.ai) - Autonomous SRE platform by OpenTelemetry co-creators that targets 80% autonomous resolution rate with parallel hypothesis investigation.
 - [Middleware OpsAI](https://middleware.io/product/ops-ai/) - AI SRE agent that detects issues across APM, RUM, Logs, and Kubernetes, traces errors to the exact line of code via GitHub MCP, and opens a PR with a fix or auto-applies it for Kubernetes without waking your on-call engineer.
 - [Cleric](https://cleric.ai) - Autonomous AI SRE teammate that investigates alerts 24/7 and delivers root cause analysis in Slack.
+- [Corelayer](https://corelayer.com) - Agentic production support platform that proactively investigates, resolves, and prevents incidents, with BYOC and on-prem support for regulated environments.
 - [NeuBird](https://neubird.ai) - Agentic AI SRE co-pilot for enterprise IT with LLM-powered telemetry analysis and 230K+ alerts resolved.
 - [Phoebe AI](https://phoebe.ai) - Predicts incidents from leading indicators and generates pre-emptive fixes using multi-agent AI swarms.
 - [Ciroos AI](https://ciroos.ai) - Multi-agentic AI SRE teammate built on MCP and A2A architectures for extensible cross-tool orchestration.
