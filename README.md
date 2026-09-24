@@ -59,6 +59,7 @@
 
 *AI-powered tools for debugging production applications in real-time — adding observability without redeployments and autonomously remediating code issues.*
 
+- [HyperProbe](https://www.hyperprobe.co/) - AI production debugger that investigates incidents and captures live variable state with read-only probes, without restarting or redeploying services.
 - [Lightrun](https://lightrun.com) - AI SRE platform for autonomous code remediation that lets you add logs, snapshots, and metrics to production without restarts.
 - [Sentry Seer](https://sentry.io/product/seer/) - AI debugging agent built on production telemetry that identifies actionable issues, performs root cause analysis, and generates code fixes.
 
