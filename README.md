@@ -61,7 +61,7 @@
 
 - [Lightrun](https://lightrun.com) - AI SRE platform for autonomous code remediation that lets you add logs, snapshots, and metrics to production without restarts.
 - [Sentry Seer](https://sentry.io/product/seer/) - AI debugging agent built on production telemetry that identifies actionable issues, performs root cause analysis, and generates code fixes.
-
+  
 ## Incident Management
 
 *AI-enhanced platforms for managing the full incident lifecycle — detection, triage, response, communication, and post-mortems.*
@@ -161,6 +161,7 @@
 - [GitHub Copilot Agent Mode](https://github.com/features/copilot) - AI coding assistant with DevOps agent capabilities for infrastructure validation, incident response, and pipeline automation.
 - [GitLab Duo](https://about.gitlab.com/gitlab-duo/) - AI throughout the DevSecOps lifecycle with failed job trace analysis, root cause identification, and Security Analyst Agent.
 - [Grafana Assistant](https://grafana.com/docs/grafana/latest/dashboards/manage-dashboards/#ai-generated-dashboard) - AI assistant for natural language dashboard creation, autonomous incident investigation, and query generation.
+- [Tomosu AI](https://tomosu.ai) - Scores each pull request with a 0-100 Production Reliability Index and an advisory merge verdict, and links production incidents back to the changes behind them when observability and ticketing integrations are connected.
 
 ## Agent Benchmarks
 
