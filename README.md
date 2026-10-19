@@ -194,6 +194,7 @@
 - [NeuBird Blog](https://neubird.ai/blog) - GenAI SRE predictions and industry analysis.
 - [Metoro Blog](https://metoro.io/blog) - Observability, AI SRE and Kubernetes content.
 - [Hyground Blog](https://hyground.ai/blog) - AI SRE, observability, GenAI / security content.
+- [AIAgentSearch.ai: DevOps & SRE AI Agents](https://aiagentsearch.ai/devops-and-sre-ai-agents.html) - Independent explainer on AI SRE agents and AIOps, with a buyer's guide comparing AIOps platforms.
 
 ## Community Lists
 
