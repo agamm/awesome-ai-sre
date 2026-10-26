@@ -54,6 +54,7 @@
 - [Guardian by Metoro](https://metoro.io/ai-sre-agent) - AI SRE agent for Kubernetes that detects issues, finds the root cause, and opens fix PRs automatically.
 - [Hyground](https://hyground.ai) - A sovereign AI SRE agent built to operate complex software across your entire stack, automatically find root causes and cut DevOps toil.
 - [Aiden for SRE](https://stackgen.com/product/aiden-for-sre) - It acts autonomously on recurring incidents and works complex ones alongside your team through to resolution — policy-bound and fully auditable.
+- [Opservo](https://getopservo.com) - AI ops engineer for Linux servers that explains what is broken in plain English, runs the exact fix only after you approve it, and re-checks that the problem cleared.
 
 ## AI Production Debugging
 
