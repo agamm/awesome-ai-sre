@@ -54,6 +54,7 @@
 - [Guardian by Metoro](https://metoro.io/ai-sre-agent) - AI SRE agent for Kubernetes that detects issues, finds the root cause, and opens fix PRs automatically.
 - [Hyground](https://hyground.ai) - A sovereign AI SRE agent built to operate complex software across your entire stack, automatically find root causes and cut DevOps toil.
 - [Aiden for SRE](https://stackgen.com/product/aiden-for-sre) - It acts autonomously on recurring incidents and works complex ones alongside your team through to resolution — policy-bound and fully auditable.
+- [DataAgent](https://data-agent.co) - Remediation-first autonomous SRE for Kubernetes that dry-runs and applies fixes with autonomy earned per fault class, right-sizes observability spend, runs on a local kind cluster, and works from a CLI and a Claude Code or Cursor skill.
 
 ## AI Production Debugging
 
