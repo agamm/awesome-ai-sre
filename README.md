@@ -109,6 +109,7 @@
 *Specialized tools for AI-driven log analytics, pattern recognition, and automated anomaly detection.*
 
 - [Sumo Logic](https://www.sumologic.com) - Cloud-native log analytics with real-time AI-powered anomaly detection and ML-based pattern recognition.
+- [Denpex](https://denpex.com) - GPU log diagnostics platform and local VS Code extension for investigating CUDA, PyTorch, NCCL, and vLLM failure logs.
 - [Graylog](https://graylog.org) - Open source log management for centralized collection, indexing, and analysis with anomaly alerting.
 - [Logz.io](https://logz.io) - Cloud observability built on ELK and OpenSearch with AI-powered log analysis, ML-based anomaly detection, and MCP server.
 - [OpenObserve](https://openobserve.ai) - Open source high-performance log, metrics, and trace platform with real-time analytics.
