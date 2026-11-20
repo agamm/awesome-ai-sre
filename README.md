@@ -54,6 +54,7 @@
 - [Guardian by Metoro](https://metoro.io/ai-sre-agent) - AI SRE agent for Kubernetes that detects issues, finds the root cause, and opens fix PRs automatically.
 - [Hyground](https://hyground.ai) - A sovereign AI SRE agent built to operate complex software across your entire stack, automatically find root causes and cut DevOps toil.
 - [Aiden for SRE](https://stackgen.com/product/aiden-for-sre) - It acts autonomously on recurring incidents and works complex ones alongside your team through to resolution — policy-bound and fully auditable.
+- [Watchtower](https://watchtower.cerebrixos.com) - Always-on agent for security, FinOps and drift findings across Azure, AWS and Google Cloud, where infrastructure changes only through a pull request a person merges.
 
 ## AI Production Debugging
 
@@ -94,6 +95,7 @@
 - [Metoro](https://metoro.io/) - Kubernetes native observability platform with built-in eBPF telemetry, AI investigation, deployment verification and root-cause analysis.
 - [Radar](https://github.com/skyhook-io/radar) - Open source Kubernetes observability with topology, service traffic, and event timeline, plus a built-in MCP server and a 31-check best-practices audit for AI assistants.
 - [Aiden for Observability](https://stackgen.com/product/aiden-for-observability) - Unified observability platform with 300+ integrations, instant setup, and AI-powered root cause analysis that eliminates tool fragmentation.
+- [Trazio](https://trazio.cerebrixos.com) - Logs, metrics, traces, security events, robot data and video in one pipeline, queried by your own AI assistant over MCP.
 ## AIOps Platforms
 
 *Platforms that apply ML and AI to IT operations — correlating events, reducing alert noise, and automating operational workflows at scale.*
