@@ -185,6 +185,7 @@
 
 ## Blogs and Newsletters
 
+- [AI SRE Weekly](https://www.linkedin.com/company/ai-sre-weekly/) - Weekly newsletter tracking the AI SRE category: vendor launches, funding, incident-automation research and what changed for on-call teams.
 - [SRE Weekly](https://sreweekly.com) - Curated newsletter on scalability, availability, incident response, and automation.
 - [Last Week in AWS](https://www.lastweekinaws.com) - Weekly AWS news and commentary by Corey Quinn.
 - [Google Cloud DevOps and SRE Blog](https://cloud.google.com/blog/products/devops-sre) - Practices and tools for DevOps and SRE at scale.
